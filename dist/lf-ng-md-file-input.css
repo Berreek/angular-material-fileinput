@@ -159,6 +159,7 @@
   -moz-border-radius: 0 5px 5px 0;
   -webkit-border-radius: 0;
   border-radius: 0 5px 5px 0;
+  cursor: pointer;
 }
 .lf-ng-md-file-input .lf-ng-md-file-input-container .md-raised.lf-ng-md-file-input-button.lf-ng-md-file-input-button-remove {
   -moz-border-radius: 0 0 0 0;
