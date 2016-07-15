@@ -206,7 +206,7 @@
                                     '</div>',
                                     '<md-progress-linear md-mode="determinate" value="{{floatProgress}}" ng-show="intLoading && isProgress"></md-progress-linear>',
                                 '</div>',
-                                '<md-button ng-disabled="isDisabled" ng-click="removeAllFiles()" ng-hide="isFilesNull || intLoading" class="md-raised lf-ng-md-file-input-button lf-ng-md-file-input-button-remove" >',
+                                '<md-button ng-disabled="isDisabled" ng-click="removeAllFiles()" ng-hide="isFilesNull || intLoading" class="lf-ng-md-file-input-button lf-ng-md-file-input-button-remove" >',
                                     '<md-icon class="lf-icon" ng-class="strRemoveIconCls"></md-icon> ',
                                     '{{strCaptionRemove}}',
                                 '</md-button>',
